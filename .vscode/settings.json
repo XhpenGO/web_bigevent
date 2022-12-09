@@ -1,0 +1,6 @@
+{
+  "problems.showCurrentInStatus": true,
+  "prettier.withNodeModules": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true
+}
